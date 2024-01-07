@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhyTom403
 - 👀 I’m interested in contributions.
-- 🌱 I’m currently learning on github..
+- 🌱 I’m currently learning on github and Twitter..
 - 💞️ I’m looking to collaborate on github..
 - 📫 How to reach me ...https://github.com/PhyTom403/web3-devs
 
